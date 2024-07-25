@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 
-id = "macos-in-blender"
+id = "macos_in_blender"
 version = "1.0.0"
 name = "MacOS in Blender"
 tagline = "The MacOS interface style in Blender"
