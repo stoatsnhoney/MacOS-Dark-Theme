@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+
+id = "macos-in-blender"
+version = "1.0.0"
+name = "MacOS in Blender"
+tagline = "The MacOS interface style in Blender"
+maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
+type = "theme"
+
+website = "https://github.com/stoatsnhoney/MacOS-in-Blender"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+   "2024 Jay Friesen",
+]
