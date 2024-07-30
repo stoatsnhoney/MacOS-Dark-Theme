@@ -2,7 +2,7 @@ schema_version = "1.0.0"
 
 
 id = "macos_dark_theme"
-version = "1.0.0"
+version = "1.0.2"
 name = "MacOS Dark Theme"
 tagline = "The MacOS interface style in Blender"
 maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
