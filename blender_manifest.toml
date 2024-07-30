@@ -10,6 +10,8 @@ type = "theme"
 
 website = "https://github.com/stoatsnhoney/MacOS-in-Blender"
 
+tags = ["Dark", "Inspired By"]
+
 blender_version_min = "4.2.0"
 
 license = [
