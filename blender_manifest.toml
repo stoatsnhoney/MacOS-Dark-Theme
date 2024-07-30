@@ -1,8 +1,8 @@
-schema_version = "1.0.0"
+schema_version = "1.0.1"
 
 
 id = "macos_dark_theme"
-version = "1.0.2"
+version = "1.0.1"
 name = "MacOS Dark Theme"
 tagline = "The MacOS interface style in Blender"
 maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
