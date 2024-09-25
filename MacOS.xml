@@ -94,8 +94,8 @@
         <wcol_text>
           <ThemeWidgetColors
             outline="#383838ff"
-            inner="#363636ff"
-            inner_sel="#363636ff"
+            inner="#1e1e1eff"
+            inner_sel="#1e1e1eff"
             item="#40638bff"
             text="#e6e6e6"
             text_sel="#ffffff"
