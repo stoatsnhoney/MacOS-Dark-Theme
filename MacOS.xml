@@ -370,7 +370,7 @@
         empty="#000000"
         light="#00000000"
         speaker="#000000"
-        vertex="#989898"
+        vertex="#d9d9d9"
         vertex_select="#61d0ff"
         vertex_size="3"
         vertex_bevel="#0684fe"
