@@ -1,0 +1,3 @@
+The MacOS interface style recreated in Blender. This is primarily a color overhaul where I used Apple's MacOS dark mode color palette in place of Blender Dark's default colors. Blue is still for modifiers, orange is still for objects, they're just different shades now. You shouldn't have any issues adapting from Blender Dark.
+
+Tip: for added MacOS realism, change the Blender interface font to SF Pro Regular, and the monospace font to SF Mono Regular. You can change the interface font in Blender Preferences > Interface > Text Rendering. You can download the Apple SF fonts from https://developer.apple.com/fonts/
