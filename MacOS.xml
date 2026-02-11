@@ -348,8 +348,8 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#383838ff"
-            outline_sel="#2d2d2dff"
+            outline="#1e1e1eff"
+            outline_sel="#ffffffff"
             inner="#1e1e1eff"
             inner_sel="#0684feff"
             item="#545454ff"
