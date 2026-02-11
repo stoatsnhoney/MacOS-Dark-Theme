@@ -2,7 +2,7 @@ schema_version = "1.0.0"
 
 
 id = "macos_dark_theme"
-version = "2.0.0"
+version = "2.0.1"
 name = "MacOS Dark Theme"
 tagline = "The MacOS interface style in Blender"
 maintainer = "Jay Friesen <jaymfriesen@outlook.com>"
@@ -18,5 +18,5 @@ license = [
   "SPDX:GPL-3.0-or-later",
 ]
 copyright = [
-   "2025 Jay Friesen",
+   "2026 Jay Friesen",
 ]
